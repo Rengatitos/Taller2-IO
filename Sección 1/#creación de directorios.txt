@@ -1,0 +1,12 @@
+#creación de directorios
+mkdir tallerADA/publico
+mkdir tallerADA/privado
+mkdir tallerADA/colaboratorio
+
+#otorgación de permiso
+chmod 755 tallerADa/publico
+chmod 700 tallerADa/privado
+chmod 770 tallerADa/colaboratorio
+
+#para ver los permisos otorgados
+ls -l
